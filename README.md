@@ -57,10 +57,10 @@ The pipeline was designed to answer:
 ---
 
 ## Repository Contents  
-- `Final_Notebook.py` – Databricks notebook (PySpark implementation).  
-- `Final_Report.pdf` – Written report with project objectives, architecture, implementation details, results, and lessons learned.  
-- `Final_Dashboard.pbix` – Power BI dashboard with interactive KPIs and adoption trends.  
-- `Final_Architecture.drawio` – End-to-end architecture diagram showing the pipeline flow.  
+- `Music_Streaming_Analytics_Notebook.py` – Databricks-exported PySpark notebook containing the full data pipeline implementation.  
+- `Music_Streaming_Analytics_Report.pdf` – Comprehensive report outlining project objectives, architecture, implementation, results, and key lessons learned.  
+- `Music_Streaming_Analytics_Dashboard.pbix` – Power BI dashboard presenting interactive KPIs and visualizations of user engagement and adoption trends.  
+- `Music_Streaming_Analytics_Architecture.drawio` – End-to-end architecture diagram mapping the data flow across AWS S3, Databricks, Delta Lake, and Power BI.    
 
 ---
 
